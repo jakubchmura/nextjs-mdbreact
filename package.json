@@ -12,7 +12,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "express": "^4.17.1",
-    "mdbreact": "4.20.0",
+    "mdbreact": "4.23.1",
     "next": "^9.1.6",
     "next-compose-plugins": "^2.2.0",
     "next-fonts": "^0.19.0",
