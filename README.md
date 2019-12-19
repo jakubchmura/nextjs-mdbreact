@@ -1,11 +1,11 @@
 <div align="center">
+<img src='https://github.com/JakubChm/nextjs-mdbreact/blob/master/static/mdb-react-small.png?raw=true'  alt='mdbreact' align='center'>
+<br/>
 <h1>MDB React & Next.js</h1>
 <br/>
-<img src='https://github.com/JakubChm/nextjs-mdbreact/blob/master/static/mdb-react-small.png?raw=true'  alt='mdbreact' align='center'>
-
 <h2>MDBReact with create-next-app integration example.</h2>
 
-</p>
+</div>
 
 ## Project setup
 
