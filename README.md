@@ -3,6 +3,7 @@
 <br/>
 <h1>MDB React & Next.js</h1>
 <h2>MDBReact with create-next-app integration example.</h2>
+<h2>MDBReact v.4.25.3</h2>
 
 </div>
 
