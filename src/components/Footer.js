@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBCol, MDBContainer, MDBRow, MDBFooter } from 'mdbreact';
+import { MDBIcon, MDBContainer, MDBFooter } from 'mdbreact';
 
 const FooterPage = () => {
   return (
@@ -10,6 +10,7 @@ const FooterPage = () => {
       <MDBContainer fluid>
         &copy; {new Date().getFullYear()} Copyright:
         <a href='https://www.mdbootstrap.com'> MDBootstrap.com </a>
+        <MDBIcon fab icon='mdb' />
       </MDBContainer>
     </MDBFooter>
   );

@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import { MDBContainer } from 'mdbreact';
 import NavBar from './NavBar';
 import Footer from './Footer';

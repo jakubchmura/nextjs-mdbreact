@@ -1,6 +1,6 @@
 import React from 'react';
 import App from 'next/app';
-import '@fortawesome/fontawesome-free/css/all.min.css';
+import '@fortawesome/fontawesome-free/js/all';
 import 'bootstrap-css-only/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
 import Layout from '../components/Layout';
